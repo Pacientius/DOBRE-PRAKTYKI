@@ -1,2 +1,2 @@
 # DOBRE-PRAKTYKI 
-To mi nie działał ten clickup
+To mi nie działał ten clickupwdadwadawda
