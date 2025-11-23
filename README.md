@@ -1,2 +1,2 @@
 # DOBRE-PRAKTYKI 
-test
+To mi nie działał ten clickup
